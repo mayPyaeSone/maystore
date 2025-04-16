@@ -42,5 +42,4 @@ public class Products {
 //	    @Transient  // Marks this field as non-persistent (not saved in the database)
 //	    private MultipartFile productImage;
 	    
-	    
 }
